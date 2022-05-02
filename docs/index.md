@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Standalone Apps for Mental Health
 
 You can use the [editor on GitHub](https://github.com/ChelseaSmile666/Cognitive-Psych/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
